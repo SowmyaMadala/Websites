@@ -1,0 +1,21 @@
+<html>
+<head>
+<style>
+.a{
+	background: url(logo.svg) no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+	height: 100vh;
+	position: relative;
+}
+.a_wrapper{
+	color:white;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,50%);
+}
+</style>
+</head>
+</html>
+	
